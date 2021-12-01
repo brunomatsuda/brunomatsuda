@@ -3,7 +3,6 @@
 
 - 🔭 Estagiário na Telemont DF
 - 🌱 Aprendendo python
-- 😄 Ele/Dele
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunomatsuda&show_&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
