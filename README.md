@@ -1,4 +1,4 @@
-### Oie, 👋
+### Oi, 👋
 
 
 - 🔭 Estagiário na EBSERH
