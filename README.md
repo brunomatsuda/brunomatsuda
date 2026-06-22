@@ -50,68 +50,21 @@ Atualmente estou me especializando em orquestração de pipelines, modelagem com
 
 ## 🚀 Projetos em destaque
 
-### 📊 [pipeline-dados-ibge](https://github.com/seu-usuario/pipeline-dados-ibge)
-> Pipeline ELT completo com dados populacionais e econômicos do IBGE
+### 📊 [Automação de relatórios em python](https://github.com/brunomatsuda/Relatorio-Gestores)
+> Pipeline de automação em python para geração de relatórios
 
-Pipeline que ingere dados da API pública do IBGE, realiza transformações com **dbt** e carrega no **BigQuery**. Inclui testes de qualidade de dados, documentação automática e orquestração com Airflow.
+Pipeline que ingere dados da API pública do e-CGU, realiza transformações com **pandas** e carrega no **Power BI** para consumo.
 
 **Destaques:**
-- Ingestão incremental via API REST do IBGE (SIDRA)
+- Ingestão incremental via API REST do e-CGU 
 - Modelagem em camadas: raw → staging → marts
 - Testes de unicidade, not-null e integridade referencial no dbt
-- Dashboard de visualização no Metabase
+- Dashboard de visualização no Power BI
 
-`Python` `dbt` `BigQuery` `Airflow` `Docker`
-
----
-
-
-## 📚 Formação & Certificações
-
-| Certificação | Instituição | Ano |
-|---|---|---|
-| 🎓 Google Data Analytics Certificate | Coursera / Google | 2024 |
-| 🎓 dbt Fundamentals | dbt Labs | 2024 |
-| 🎓 SQL para Análise de Dados | Modo Analytics | 2024 |
-| 🎓 Python para Engenharia de Dados | [Plataforma] | 2023 |
-| 🎓 Fundamentos de Cloud Computing | AWS / Escola da Nuvem | 2023 |
-
-> 📌 Em andamento: **AWS Cloud Practitioner** (previsão: Q2 2025)
+`Python` `Excel` `Power BI`
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=8&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=dark" alt="GitHub Streak"/>
-</p>
-
----
-
-## 📬 Vamos conversar?
-
-Se você trabalha com dados, tem alguma dica de projeto, ou quer trocar uma ideia sobre pipelines e dados abertos — me manda uma mensagem!
-
-<p align="left">
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:seu-email@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&color=blue&style=flat-square&label=Visitas+ao+perfil"/>
-</p>
-
-<p align="center"><em>"Dados brutos são como minério — o valor está no que você faz com eles."</em></p>
+<p align="center"><em>"O Sol sempre nasce apesar de tudo."</em></p>
 
 
