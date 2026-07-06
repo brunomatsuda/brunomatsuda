@@ -49,6 +49,12 @@ Atualmente estou me especializando em orquestração de pipelines, modelagem com
 
 ---
 
+📚 Formação & Certificações
+🎓 [Data Analyst AssociateDataCamp2026] (https://www.datacamp.com/certificate/DAA0013336955879)
+🎓 Associate Data Engineer in SQL
+🎓 Associate Data Analyst in SQL
+
+---
 ## 🚀 Projetos em destaque
 
 ### 📊 [Automação de relatórios em python](https://github.com/brunomatsuda/Relatorio-Gestores)
