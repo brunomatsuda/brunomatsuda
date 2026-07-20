@@ -16,7 +16,7 @@ Sou engenheiro de dados júnior com foco em construir pipelines de dados robusto
 
 Atualmente estou me especializando em orquestração de pipelines, modelagem com dbt e computação em nuvem. Gosto de transformar dados brutos e desorganizados em algo que realmente pode ser usado.
 
-- 🔭 Trabalhando em: pipelines com dados abertos do IBGE, ANEEL e INEP
+- 🔭 Trabalhando em: [pipelines com dados abertos do INMET](https://github.com/brunomatsuda/projeto_clima)
 - 🌱 Aprendendo: Apache Airflow, Docker
 - 📫 Contato: **[b99086444@email.com]**
 
