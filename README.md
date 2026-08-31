@@ -58,6 +58,20 @@ Atualmente estou me especializando em orquestração de pipelines, modelagem com
 ---
 ## 🚀 Projetos em destaque
 
+### 📊 [Pipeline de Dados Meteorológicos](https://github.com/brunomatsuda/dados_metereologicos_brasil/tree/main)
+> Pipeline de engenharia de dados que ingere e trata mensalmente dados históricos do INMET sobre 
+> temperatura e clima em diferentes estados do Brasil, entregando dados prontos para análises 
+> preditivas e OLAP.
+
+**Destaques:**
+- Ingestão em batch (CSV) direto do portal de dados históricos do INMET
+- Arquitetura em camadas (Medallion: Raw → Processed(ETL) → Gold)
+- Pipeline de transformação em Pandas, com validação de lógica em PySpark
+- Orquestração agendada com Apache Airflow (Docker)
+
+`Python` `Pandas` `PySpark` `Airflow` `Docker`
+
+
 ### 📊 [Automação de relatórios em python](https://github.com/brunomatsuda/Relatorio-Gestores)
 > Pipeline de automação em python para geração de relatórios
 
