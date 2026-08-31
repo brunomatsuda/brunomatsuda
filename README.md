@@ -58,7 +58,7 @@ Atualmente estou me especializando em orquestração de pipelines, modelagem com
 ---
 ## 🚀 Projetos em destaque
 
-### 📊 [Pipeline de Dados Meteorológicos](https://github.com/brunomatsuda/dados_metereologicos_brasil/tree/main)
+### 🌦️ [Pipeline de Dados Meteorológicos](https://github.com/brunomatsuda/dados_metereologicos_brasil/tree/main)
 > Pipeline de engenharia de dados que ingere e trata mensalmente dados históricos do INMET sobre 
 > temperatura e clima em diferentes estados do Brasil, entregando dados prontos para análises 
 > preditivas e OLAP.
