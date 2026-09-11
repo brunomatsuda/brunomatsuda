@@ -16,7 +16,7 @@ Sou engenheiro de dados júnior com foco em construir pipelines de dados robusto
 
 Atualmente estou me especializando em orquestração de pipelines, modelagem com dbt e computação em nuvem. Gosto de transformar dados brutos e desorganizados em algo que realmente pode ser usado.
 
-- 🔭 Trabalhando em: [pipelines com dados abertos do INMET](https://github.com/brunomatsuda/projeto_clima)
+- 🔭 Trabalhando em: [Comercialização de madeiras na Amazônia](https://github.com/brunomatsuda/Hiperfocaliza-o-comercial-de-madereiras-na-floresta-Amazonica)
 - 🌱 Aprendendo: Apache Airflow, Docker
 - 📫 Contato: **[b99086444@email.com]**
 
@@ -84,6 +84,14 @@ Pipeline que ingere dados da API pública do e-CGU, realiza transformações com
 - Dashboard de visualização no Power BI
 
 `Python` `Excel` `Power BI`
+
+### 🪵[Comercialização madeireira](https://github.com/brunomatsuda/Hiperfocaliza-o-comercial-de-madereiras-na-floresta-Amazonica)
+> Objetivo de buscar alternativas para a hiperfocalização comercial de madeiras na Amazônia, ou seja encontrar características entre árvores
+
+**Destaques:**
+- Tratamento ETL via notebook, que gera um dataset
+- Comandos DDL e DML no mysql para quebrar o dataset em 4, já exportando como Star-Schema no Power-BI
+- Ingestão no power BI, via sql server
 
 ---
 
